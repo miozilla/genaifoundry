@@ -6,26 +6,26 @@ Create and Test a GPT-4 chatbot using playground to see the generative ai respon
 
 ## GPT-4 Chat Playground
 
-![Screenshot_genaifoundry001](./genaifoundry001.png)
+![Screenshot_genaifoundry001](./media/genaifoundry001.png)
 
-![Screenshot_genaifoundry002](./genaifoundry002.png)
+![Screenshot_genaifoundry002](./media/genaifoundry002.png)
 
-![Screenshot_genaifoundry003](./genaifoundry003.png)
+![Screenshot_genaifoundry003](./media/genaifoundry003.png)
 
-![Screenshot_genaifoundry004](./genaifoundry004.png)
+![Screenshot_genaifoundry004](./media/genaifoundry004.png)
 
-![Screenshot_genaifoundry005](./genaifoundry005.png)
+![Screenshot_genaifoundry005](./media/genaifoundry005.png)
 
-![Screenshot_genaifoundry006](./genaifoundry006.png)
+![Screenshot_genaifoundry006](./media/genaifoundry006.png)
 
-![Screenshot_genaifoundry007](./genaifoundry007.png)
+![Screenshot_genaifoundry007](./media/genaifoundry007.png)
 
-![Screenshot_genaifoundry008](./genaifoundry008.png)
+![Screenshot_genaifoundry008](./media/genaifoundry008.png)
 
-![Screenshot_genaifoundry009](./genaifoundry009.png)
+![Screenshot_genaifoundry009](./media/genaifoundry009.png)
 
-![Screenshot_genaifoundry010](./genaifoundry010.png)
+![Screenshot_genaifoundry010](./media/genaifoundry010.png)
 
-![Screenshot_genaifoundry011](./genaifoundry011.png)
+![Screenshot_genaifoundry011](./media/genaifoundry011.png)
 
 
