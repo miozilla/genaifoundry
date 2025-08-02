@@ -4,6 +4,7 @@ genaifoundry : #gen_ai #ai_foundry #chat_playground #gpt-4 #ai_chatbot
 ## Objective
 Create and Test a GPT-4 chatbot using playground to see the generative ai response  
 
+
 ## GPT-4 Chat Playground
 
 ![Screenshot_genaifoundry001](./media/genaifoundry001.png)
